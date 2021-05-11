@@ -7,46 +7,56 @@
 
 # Langkah - langkah
 ## Buka aplikasi XAMPP dan jalankan apache terlebih dahulu.
-![a](https://user-images.githubusercontent.com/56240533/117808294-e4dd4400-b286-11eb-8189-25a982280751.png)
+![a (2)](https://user-images.githubusercontent.com/56240533/117819452-c2055c80-b293-11eb-8891-fe67879ec634.png)
+
 
 ## Buatlah folder Lab7_php_dasar pada (C:\xampp\htdocs).
-![b](https://user-images.githubusercontent.com/56240533/117807797-4cdf5a80-b286-11eb-917a-34e577cbffbd.png)
+![b (2)](https://user-images.githubusercontent.com/56240533/117819473-c762a700-b293-11eb-8103-a5830e395165.png)
+
 
 ## Dan buatlah file baru di dalam htdocs dengan  nama php_dasar.php pada directory tersebut.
-![c](https://user-images.githubusercontent.com/56240533/117808213-cd05c000-b286-11eb-80f0-4c64a42ad178.png)
+![c (2)](https://user-images.githubusercontent.com/56240533/117819507-cf224b80-b293-11eb-84fe-2921aa019279.png)
+
 
 ## Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
-![1](https://user-images.githubusercontent.com/56240533/117807827-57015900-b286-11eb-8a04-977d97f88409.png)
+![1 (2)](https://user-images.githubusercontent.com/56240533/117819534-d5b0c300-b293-11eb-802a-55f1048ac28d.png)
 
 ## Tulislah kode pada directory pada file  php_dasar.php tersebut. Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php 
-![2](https://user-images.githubusercontent.com/56240533/117808229-d2630a80-b286-11eb-97fc-ff6c16d16958.png)
+![2 (2)](https://user-images.githubusercontent.com/56240533/117819596-e5300c00-b293-11eb-9c72-65e72b7cea80.png)
 
 ## 1. Membuat variable pada program PHP
-![3](https://user-images.githubusercontent.com/56240533/117808240-d55dfb00-b286-11eb-97a1-b5c4b7d4964a.png)
+![3 (2)](https://user-images.githubusercontent.com/56240533/117819634-f1b46480-b293-11eb-96fd-16076befd30f.png)
 
  ## 2. Membuat Predefine Variable, setelah itu refresh untuk melihat perubahannya. 
-![4](https://user-images.githubusercontent.com/56240533/117807837-5b2d7680-b286-11eb-9c1f-f57ce4dac6e1.png)
+![4 (2)](https://user-images.githubusercontent.com/56240533/117819661-f842dc00-b293-11eb-9469-067b89e979dc.png)
+
 
 ## 3. Membuat Form Input, setelah itu refresh untuk melihat perubahannya.
-![5](https://user-images.githubusercontent.com/56240533/117807845-5e286700-b286-11eb-8e86-6a3a9bb06ddb.png)
+![5 (2)](https://user-images.githubusercontent.com/56240533/117819686-fed15380-b293-11eb-8e84-abb7f89ba653.png)
+
 
 ## 4. embuat operator setelah itu refresh untuk melihat perubahannya.
-![6](https://user-images.githubusercontent.com/56240533/117807846-5ec0fd80-b286-11eb-9789-dd160d01cf4e.png)
+![6 (2)](https://user-images.githubusercontent.com/56240533/117819742-0bee4280-b294-11eb-9cfc-eadc0a2c808d.png)
+
 
 ## 5. Membuat Kondisi pada IF, setelah itu refresh untuk melihat perubahannya.
-![7](https://user-images.githubusercontent.com/56240533/117807862-6385b180-b286-11eb-97dc-1282bec04335.png)
+![7 (2)](https://user-images.githubusercontent.com/56240533/117820011-54a5fb80-b294-11eb-92ba-9e16c36dd791.png)
+
 
 ## 6. Membuat Kondisi SWITCH,  setelah itu refresh untuk melihat perubahannya.
-![8](https://user-images.githubusercontent.com/56240533/117807861-6385b180-b286-11eb-8665-3552948684bf.png)
+![8 (2)](https://user-images.githubusercontent.com/56240533/117820075-612a5400-b294-11eb-9f91-92a9ae21df87.png)
 
 ## 7. Membuat Perulangan FOR, setelah itu refresh untuk melihat perubahannya.
-![9](https://user-images.githubusercontent.com/56240533/117807868-65e80b80-b286-11eb-8d40-8832d3da66fc.png)
+
+
 
 ## 8. Membuat Perulangan WHILE, setelah itu refresh untuk melihat perubahannya.
-![10](https://user-images.githubusercontent.com/56240533/117807873-67193880-b286-11eb-9061-eea4cef992c3.png)
+
+
 
 ## 9. Membuat Perulangan DOWHILE, setelah itu refresh untuk melihat perubahannya.
-![11](https://user-images.githubusercontent.com/56240533/117807885-6a142900-b286-11eb-961a-abab5f9c83ac.png)
+![11 (2)](https://user-images.githubusercontent.com/56240533/117819883-2e805b80-b294-11eb-8958-763ebc0c56f7.png)
+
 
 # _TUGAS_
 
