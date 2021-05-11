@@ -18,7 +18,7 @@
 ![c (2)](https://user-images.githubusercontent.com/56240533/117819507-cf224b80-b293-11eb-84fe-2921aa019279.png)
 
 
-## _Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
+## _Kemudian untuk mengakses directory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
 ![1 (2)](https://user-images.githubusercontent.com/56240533/117819534-d5b0c300-b293-11eb-802a-55f1048ac28d.png)
 
 ## _Tulislah kode pada directory pada file  php_dasar.php tersebut. Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php 
