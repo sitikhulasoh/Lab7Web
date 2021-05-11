@@ -47,11 +47,11 @@
 ![8 (2)](https://user-images.githubusercontent.com/56240533/117820075-612a5400-b294-11eb-9f91-92a9ae21df87.png)
 
 ## 7. Membuat Perulangan FOR, setelah itu refresh untuk melihat perubahannya.
-
+![9 (2)](https://user-images.githubusercontent.com/56240533/117821451-cc285a80-b295-11eb-845b-644c4aa42c52.png)
 
 
 ## 8. Membuat Perulangan WHILE, setelah itu refresh untuk melihat perubahannya.
-
+![10 (2)](https://user-images.githubusercontent.com/56240533/117821501-db0f0d00-b295-11eb-9e23-3f036a3e486a.png)
 
 
 ## 9. Membuat Perulangan DOWHILE, setelah itu refresh untuk melihat perubahannya.
@@ -65,6 +65,7 @@ nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitun
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang 
 berbeda-beda sesuai pilihan pekerjaan.
 
-![TUGAS php](https://user-images.githubusercontent.com/56240533/117817285-a39e6180-b291-11eb-8898-bbae9158d399.png)
+![TUGAS php (2)](https://user-images.githubusercontent.com/56240533/117821539-e5c9a200-b295-11eb-8a33-8c3e66b4edfe.png)
+
 
 
