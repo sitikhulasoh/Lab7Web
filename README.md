@@ -1,9 +1,9 @@
 # Praktikum Lab7Web!
 
 
-## Nama  : Siti Khulasoh
-## kelas : TI.19.A2
-## Nim   : 311910445
+     ## Nama  : Siti Khulasoh
+     ## kelas : TI.19.A2
+     ## Nim   : 311910445
 
 # Langkah - langkah
 ## Buka aplikasi XAMPP dan jalankan apache terlebih dahulu.
